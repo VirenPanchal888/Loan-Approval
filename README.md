@@ -1,3 +1,5 @@
+Loan Approval Prediction Model -
+
 Developed a loan approval prediction model using a Random Forest Classifier to predict loan approval status based on applicant features. 
 Preprocessed the data by handling missing values and applying label encoding to categorical variables. 
 Employed Grid Search Cross-Validation for hyperparameter tuning to optimize model performance.
